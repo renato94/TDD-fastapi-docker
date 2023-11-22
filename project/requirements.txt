@@ -1,3 +1,13 @@
 fastapi
 uvicorn
 pydantic-settings
+asyncpg
+tortoise-orm
+aerich
+httpx
+pytest
+gunicorn
+pytest-cov
+flake8
+black
+isort
